@@ -9,8 +9,7 @@
 ![Focus](https://img.shields.io/badge/Python_·_FastAPI_·_Django-306998?logo=python&logoColor=white&style=flat-square)
 ![Status](https://img.shields.io/badge/Open_to-Opportunities-brightgreen?style=flat-square)
 
-<a href="https://github.com/GDelpo"><img src="https://github-readme-stats.vercel.app/api?username=GDelpo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub stats" /></a>
-<a href="https://github.com/GDelpo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDelpo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top languages" /></a>
+<a href="https://github.com/GDelpo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDelpo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480" alt="Top languages" /></a>
 
 </div>
 
