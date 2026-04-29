@@ -93,6 +93,7 @@ Everything is **MIT-licensed** and shares the same shape: `README` + `LICENSE` +
 |------|------------|
 | 🏛️ **[django-ssn](https://github.com/GDelpo/django-ssn)** | Django 5 app for filings with Argentina's insurance regulator — scheduler, alerts, reports. |
 | 📘 **[docusaurus-docs-template](https://github.com/GDelpo/docusaurus-docs-template)** | Docusaurus 3 scaffold with MDX components (Alert, Card, Steps, Tabs), optional CMS + auth sidecar. |
+| 🌳 **[react-link-in-bio](https://github.com/GDelpo/react-link-in-bio)** | Fork-ready link-in-bio SPA — React 19 + Vite 7 + Tailwind v4, deploy en Vercel con serverless function para Instagram Graph API. |
 
 ### 🔭 Infrastructure
 
@@ -105,7 +106,6 @@ Everything is **MIT-licensed** and shares the same shape: `README` + `LICENSE` +
 | Repo | What it is |
 |------|------------|
 | 💼 **[cv-online](https://github.com/GDelpo/cv-online)** | My interactive CV — React + Vite + Tailwind. |
-| 🌳 **[link_tree](https://github.com/GDelpo/link_tree)** | Link-in-bio SPA with Instagram integration, deployed on Vercel. |
 
 ---
 
