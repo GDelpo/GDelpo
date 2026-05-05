@@ -8,9 +8,6 @@
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-lightgrey?style=flat-square)
 ![Focus](https://img.shields.io/badge/Python_·_FastAPI_·_Django-306998?logo=python&logoColor=white&style=flat-square)
 ![Status](https://img.shields.io/badge/Open_to-Opportunities-brightgreen?style=flat-square)
-
-<a href="https://github.com/GDelpo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDelpo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480" alt="Top languages" /></a>
-
 </div>
 
 ---
