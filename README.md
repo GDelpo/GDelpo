@@ -43,6 +43,7 @@ I've been building software since 2018, and my focus is automation: removing man
 
 | Repo | What it is |
 |---|---|
+| [cv-online](https://github.com/GDelpo/cv-online) | My CV as a static site in Spanish and English with PDFs, generated from the official LinkedIn export, with a build that checks its own output. |
 | [fastapi-google-drive-api](https://github.com/GDelpo/fastapi-google-drive-api) | FastAPI microservice with a REST API over Google Drive, OAuth2 or service account access, JWT validation and a web dashboard. |
 | [observability-stack](https://github.com/GDelpo/observability-stack) | Docker Compose configuration of Loki, Promtail and Grafana that centralizes container logs, with email alerts. |
 
