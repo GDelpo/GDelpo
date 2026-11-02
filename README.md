@@ -15,14 +15,14 @@
 
 ### 🧑‍💻 About me
 
-I've been building software since 2018, and my focus is automation: taking manual tasks away and getting systems to talk to each other.
+I've been building software since 2018, and my focus is automation: removing manual work and getting systems to talk to each other.
 
-- 🏢 **Now:** NOC Automation at Ciena, building Python tools for optical and Ethernet networks on top of ScienceLogic SL1.
+- 🏢 **Now:** NOC Automation Developer at Ciena, building Python tools for optical and Ethernet networks on top of ScienceLogic SL1.
 - ⏮️ **Before:** Python developer and systems analyst in insurance: FastAPI services, and integrations with Argentina's tax authority and insurance regulator.
 - 🧰 **On the side:** independent developer since 2018: backend, full-stack apps and client sites.
 - 🎓 **Background:** Systems Analyst (ORT Argentina), studying Software Development (ISTEA).
 
-### 🛠️ Tech I use day-to-day
+### 🛠️ Tech I work with
 
 <p align="left">
   <img alt="Python"     src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
@@ -39,7 +39,12 @@ I've been building software since 2018, and my focus is automation: taking manua
   <img alt="Git"        src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
 </p>
 
-<!-- Projects: bring back the grouped tables (FastAPI suite, AFIP/ARCA, utilities, full-stack, infrastructure) once proyectos-f5 certifies each repo. -->
+### 📂 Projects
+
+| Repo | What it is |
+|---|---|
+| [fastapi-google-drive-api](https://github.com/GDelpo/fastapi-google-drive-api) | FastAPI microservice with a REST API over Google Drive, OAuth2 or service account access, JWT validation and a web dashboard. |
+| [observability-stack](https://github.com/GDelpo/observability-stack) | Docker Compose configuration of Loki, Promtail and Grafana that centralizes container logs, with email alerts. |
 
 ---
 
