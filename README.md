@@ -4,7 +4,7 @@
 
 **Python developer building network and NOC automation, backend services and integrations.**
 
-[![CV](https://img.shields.io/badge/CV-online-111111?style=flat-square)](https://cv-online-puce.vercel.app/en)
+[![CV](https://img.shields.io/badge/CV-online-111111?style=flat-square)](https://guido.is-a.dev/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/guido-delponte-7a26033a4/)
 ![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-lightgrey?style=flat-square)
 ![Focus](https://img.shields.io/badge/Python_·_FastAPI_·_Network_Automation-306998?logo=python&logoColor=white&style=flat-square)
